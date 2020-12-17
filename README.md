@@ -1,13 +1,12 @@
 # GKE Upgrade Detector
 
-GKEクラスタのアップグレード通知をメールで受信します。
-https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-upgrade-notifications?hl=ja
+[GKEクラスタのアップグレード通知](https://cloud.google.com/kubernetes-engine/docs/how-to/cluster-upgrade-notifications?hl=ja)をメールで受信します。
 
 下記のGCPサービスを使用します。
-・Cloud Pub/Sub
-・Cloud Functions
-・Stackdriver Logging
-・Stackdriver Monitoring
+- Cloud Pub/Sub
+- Cloud Functions
+- Stackdriver Logging
+- Stackdriver Monitoring
 
 ## 前提条件
 
