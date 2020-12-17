@@ -1,0 +1,7 @@
+.devcontainer
+.terraform
+.terraform.lock.hcl
+terraform.tfstate.backup
+terraform.tfstate
+terraform-key.json
+src/functions.zip
